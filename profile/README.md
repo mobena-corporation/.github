@@ -5,7 +5,7 @@
     <img src="/assets/logo_white_transparent.svg" alt="Mobena Logo: a 'M' that looks like a combination bar-and-line graph, and is visually suggestive of a 3-person family (2 parents on standing either side of their child)." width="200" height="auto">
   </picture>
 
-  <h1>Mobena Corporation<br><sup>Technology for Tax, Estate and Wealth</sup></h1>
+  <h1>Mobena Corporation<br><sup>Intelligent Tax, Estate and Wealth</sup></h1>
 
 </div>
 
